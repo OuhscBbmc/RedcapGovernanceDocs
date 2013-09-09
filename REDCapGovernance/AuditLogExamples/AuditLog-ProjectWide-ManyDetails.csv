@@ -1,0 +1,650 @@
+Time / Date,Username,Action,List of Data Changes OR Fields Exported
+6/11/2013 9:53,tilly,Manage/Design ,Email survey link to self
+6/11/2013 9:52,tilly,Manage/Design ,Add survey participants
+5/23/2013 9:11,trex,Manage/Design ,Download data dictionary
+5/1/2013 8:34,trex,Updated Record 86,
+4/30/2013 15:25,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, gender, score, comments, survey_complete"
+4/30/2013 15:25,[survey respondent],Updated Response 90,"psycho13 = '81', psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '36.63075578056901', participant_id = '90', survey_complete = '2'"
+4/30/2013 15:25,[survey respondent],Created Response 90,"date = '2013-04-30 15:25:30', psycho5 = '1', psycho6 = '2', psycho9 = '0', psycho13 = '81', psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '36.63075578056901', participant_id = '90', survey_complete = '2'"
+4/30/2013 15:25,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, gender, score, comments, survey_complete"
+4/30/2013 15:25,[survey respondent],Created Response 89,"date = '2013-04-30 15:24:53', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '66', psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '19.282850229599695', participant_id = '89', survey_complete = '2'"
+4/30/2013 15:25,[survey respondent],Updated Response 89,"psycho13 = '66', psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '19.282850229599695', participant_id = '89', survey_complete = '2'"
+4/30/2013 15:24,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, gender, score, comments, survey_complete"
+4/30/2013 15:24,[survey respondent],Updated Response 88,"psycho9 = '0', score = '13.984052063979247', survey_complete = '2'"
+4/30/2013 15:24,[survey respondent],Updated Response 88,"psycho9 = '0', score = '13.984052063979247', survey_complete = '2'"
+4/30/2013 15:24,[survey respondent],Created Response 88,"date = '2013-04-30 15:23:49', psycho5 = '3', psycho6 = '2', psycho13 = '73', psycho18(3) = checked, psycho20 = '1', score = '39.776258551776536', participant_id = '88', survey_complete = '0'"
+4/30/2013 15:24,[survey respondent],Updated Response 88,"psycho18(3) = checked, psycho20 = '1', score = '39.776258551776536', participant_id = '88', survey_complete = '0'"
+4/30/2013 15:22,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, gender, score, comments, survey_complete"
+4/30/2013 15:22,trex,Updated Record 86,score = '90.4956326902587'
+4/30/2013 15:21,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, gender, score, comments, survey_complete"
+4/30/2013 15:21,trex,Updated Record 65,score = '114.13446374238137'
+4/30/2013 15:21,trex,Updated Record 64,score = '129.11013485052265'
+4/30/2013 15:21,trex,Updated Record 63,score = '1.1228050054619713'
+4/30/2013 15:20,trex,Updated Record 62,"gender = '2', score = '8.697209033930383'"
+4/30/2013 15:20,trex,Updated Record 60,score = '98.54090523963252'
+4/30/2013 15:20,trex,Updated Record 59,score = '132.03872738628814'
+4/30/2013 15:20,trex,Updated Record 58,score = '76.87106168563304'
+4/30/2013 15:20,trex,Updated Record 57,score = '136.72668611606363'
+4/30/2013 15:19,trex,Updated Record 57,score = '105.51960972461536'
+4/30/2013 15:19,trex,Updated Record 56,score = '78.98771972711658'
+4/30/2013 15:19,trex,Updated Record 55,score = '119.44849418760348'
+4/30/2013 15:19,trex,Updated Record 54,score = '148.91139717857518'
+4/30/2013 15:18,trex,Updated Record 53,score = '71.3790009081096'
+4/30/2013 15:18,trex,Updated Record 52,score = '117.92627485217868'
+4/30/2013 15:18,trex,Updated Record 51,score = '20.47070966700556'
+4/30/2013 15:18,trex,Updated Record 50,score = '80.48763089341138'
+4/30/2013 15:18,trex,Updated Record 49,score = '61.663260562335495'
+4/30/2013 15:17,trex,Updated Record 47,score = '140.0853722701725'
+4/30/2013 15:17,trex,Updated Record 42,score = '48.75628726338155'
+4/30/2013 15:17,trex,Updated Record 44,score = '49.015854023581674'
+4/30/2013 15:16,trex,Updated Record 42,score = '30.112493229715433'
+4/30/2013 15:15,trex,Manage/Design ,Download exported data file (CSV raw)
+4/30/2013 15:15,trex,Data Export ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, gender, score, comments, survey_complete"
+4/30/2013 15:15,trex,Updated Record 41,score = '47.42766648528599'
+4/30/2013 15:14,trex,Manage/Design ,Download exported data file (CSV raw)
+4/30/2013 15:14,trex,Manage/Design ,Download exported data file (CSV raw)
+4/30/2013 15:14,trex,Data Export ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, gender, score, comments, survey_complete"
+4/30/2013 15:08,[survey respondent],Created Response 87,"date = '2013-04-30 15:07:57', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '62', psycho18(6) = checked, psycho20 = '0', gender = '2', score = '17.982067917156467', participant_id = '87', survey_complete = '2'"
+4/30/2013 15:08,[survey respondent],Updated Response 87,"psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '62', psycho18(6) = checked, psycho20 = '0', gender = '2', score = '17.982067917156467', participant_id = '87', survey_complete = '2'"
+4/30/2013 15:07,trex,Manage/Design ,Approve production project modifications
+4/30/2013 15:07,trex,Manage/Design ,Request approval for production project modifications
+4/30/2013 15:07,trex,Manage/Design ,Edit project field
+4/30/2013 15:06,trex,Manage/Design ,Enter draft mode
+4/30/2013 15:05,[survey respondent],Created Response 86,"date = '2013-04-30 15:05:32', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '59', psycho18(7) = checked, psycho20 = '1', gender = '1', score = '20865.61784328766', participant_id = '86', survey_complete = '2'"
+4/30/2013 15:05,[survey respondent],Updated Response 86,"psycho9 = '0', psycho13 = '59', psycho18(7) = checked, psycho20 = '1', gender = '1', score = '20865.61784328766', participant_id = '86', survey_complete = '2'"
+4/30/2013 15:05,trex,Manage/Design ,Approve production project modifications
+4/30/2013 15:04,trex,Manage/Design ,Request approval for production project modifications
+4/30/2013 15:04,trex,Manage/Design ,Edit project field
+4/30/2013 15:01,trex,Manage/Design ,Enter draft mode
+4/30/2013 15:01,[survey respondent],Updated Response 85,"psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '94', psycho18(7) = checked, psycho20 = '1', gender = '1', score = '105.152068967697', participant_id = '85', survey_complete = '2'"
+4/30/2013 15:01,[survey respondent],Created Response 85,"date = '2013-04-30 15:01:02', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '94', psycho18(7) = checked, psycho20 = '1', gender = '1', score = '105.152068967697', participant_id = '85', survey_complete = '2'"
+4/30/2013 15:00,trex,Manage/Design ,Approve production project modifications
+4/30/2013 15:00,trex,Manage/Design ,Request approval for production project modifications
+4/30/2013 15:00,trex,Manage/Design ,Edit project field
+4/30/2013 15:00,trex,Manage/Design ,Enter draft mode
+4/30/2013 15:00,[survey respondent],Created Response 84,"date = '2013-04-30 15:00:07', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '82', psycho18(1) = checked, psycho18(7) = checked, psycho20 = '0', gender = '1', score = '135.8168423030737', participant_id = '84', survey_complete = '2'"
+4/30/2013 15:00,[survey respondent],Created Response 84,"date = '2013-04-30 15:00:07', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '82', psycho18(1) = checked, psycho18(7) = checked, psycho20 = '0', gender = '1', score = '135.8168423030737', participant_id = '84', survey_complete = '2'"
+4/30/2013 15:00,trex,Manage/Design ,Approve production project modifications
+4/30/2013 14:59,trex,Manage/Design ,Request approval for production project modifications
+4/30/2013 14:59,trex,Manage/Design ,Add/edit branching logic
+4/30/2013 14:59,trex,Manage/Design ,Reorder project fields
+4/30/2013 14:59,trex,Manage/Design ,Reorder project fields
+4/30/2013 14:59,trex,Manage/Design ,Enter draft mode
+4/30/2013 14:58,[survey respondent],Created Response 83,"date = '2013-04-30 14:58:34', gender = '2', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '76', psycho18(2) = checked, psycho18(7) = checked, psycho20 = '1', score = '6.89443442418074', participant_id = '83', survey_complete = '2'"
+4/30/2013 14:58,trex,Manage/Design ,Approve production project modifications
+4/30/2013 14:58,trex,Manage/Design ,Request approval for production project modifications
+4/30/2013 14:58,trex,Manage/Design ,Edit project field
+4/30/2013 14:58,trex,Manage/Design ,Enter draft mode
+4/30/2013 14:57,[survey respondent],Updated Response 82,"score = '148.52412600179562', survey_complete = '2'"
+4/30/2013 14:57,[survey respondent],Updated Response 82,survey_complete = '2'
+4/30/2013 14:57,[survey respondent],Updated Response 82,"psycho6 = '1', psycho9 = '0', psycho13 = '69', psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '104.55489089374794', participant_id = '82', survey_complete = '0'"
+4/30/2013 14:57,[survey respondent],Created Response 82,"date = '2013-04-30 14:57:18', gender = '1', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '69', psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '104.55489089374794', participant_id = '82', survey_complete = '0'"
+4/30/2013 14:57,trex,Manage/Design ,Approve production project modifications
+4/30/2013 14:57,trex,Manage/Design ,Request approval for production project modifications
+4/30/2013 14:57,trex,Manage/Design ,Edit project field
+4/30/2013 14:56,trex,Manage/Design ,Edit project field
+4/30/2013 14:53,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/30/2013 14:53,trex,Updated Record 73,"psycho5 = '3', score = '17.42723746696786', survey_complete = '2'"
+4/30/2013 14:53,trex,Updated Record 43,"date = '2013-04-30 14:52:54', gender = '2', score = '14.943363033246537', survey_complete = '2'"
+4/30/2013 14:52,trex,Updated Record 40,"date = '2013-04-30 14:52:38', gender = '2', psycho5 = '1', psycho6 = '1', score = '38.17768534208268', survey_complete = '2'"
+4/30/2013 14:52,trex,Updated Record 39,"date = '2013-04-30 14:52:23', gender = '2', psycho5 = '1', psycho9 = '0', score = '61.3511624919574', survey_complete = '2'"
+4/30/2013 14:52,trex,Updated Record 38,"date = '2013-04-30 14:52:13', score = '0.46199209283225795', survey_complete = '2'"
+4/30/2013 14:52,trex,Updated Record 37,"date = '2013-04-30 14:51:57', psycho13 = '3', score = '60.68729526324906', survey_complete = '2'"
+4/30/2013 14:51,trex,Updated Record 36,"date = '2013-04-30 14:51:47', score = '2.8807489419932333', survey_complete = '2'"
+4/30/2013 14:51,trex,Updated Record 35,"date = '2013-04-30 14:51:38', score = '3.1127161160590164', survey_complete = '2'"
+4/30/2013 14:51,trex,Updated Record 34,"date = '2013-04-30 14:51:28', score = '35.187258145818255', survey_complete = '2'"
+4/30/2013 14:51,trex,Updated Record 32,"date = '2013-04-30 14:51:18', score = '54.65584273993076', survey_complete = '2'"
+4/30/2013 14:51,trex,Updated Record 33,"date = '2013-04-30 14:51:04', psycho18(3) = checked, psycho18(4) = checked, score = '66.32860695236992', survey_complete = '2'"
+4/30/2013 14:50,trex,Updated Record 31,"date = '2013-04-30 14:50:52', score = '28.94153731527796', survey_complete = '2'"
+4/30/2013 14:50,trex,Updated Record 30,"date = '2013-04-30 14:50:36', psycho6 = '1', psycho9 = '0', score = '52.32053968120967', survey_complete = '2'"
+4/30/2013 14:50,trex,Updated Record 29,"date = '2013-04-30 14:50:21', psycho13 = '84', score = '68.64968497878135', survey_complete = '2'"
+4/30/2013 14:50,trex,Updated Record 28,"psycho9 = '0', score = '29.864016647782094'"
+4/30/2013 14:50,trex,Updated Record 28,score = '71.12073029776897'
+4/30/2013 14:50,trex,Updated Record 28,"date = '2013-04-30 14:49:54', score = '4.744160374786227', survey_complete = '2'"
+4/30/2013 14:49,trex,Updated Record 27,"date = '2013-04-30 14:49:42', score = '7.337343516259027', survey_complete = '2'"
+4/30/2013 14:49,trex,Updated Record 26,"date = '2013-04-30 14:49:32', score = '93.51812284873037', survey_complete = '2'"
+4/30/2013 14:49,trex,Updated Record 25,"date = '2013-04-30 14:49:15', psycho5 = '3', score = '47.265761291918395', survey_complete = '2'"
+4/30/2013 14:49,trex,Updated Record 24,"psycho13 = '58', score = '44.16266382073482'"
+4/30/2013 14:49,trex,Updated Record 24,"date = '2013-04-30 14:48:56', score = '62.68708664923916', survey_complete = '2'"
+4/30/2013 14:48,trex,Updated Record 23,"date = '2013-04-30 14:48:47', score = '7.359803307221423', survey_complete = '2'"
+4/30/2013 14:48,trex,Updated Record 22,"date = '2013-04-30 14:48:37', score = '53.99601049175031', survey_complete = '2'"
+4/30/2013 14:48,trex,Updated Record 21,"date = '2013-04-30 14:48:20', psycho13 = '93', score = '78.79893195654783', survey_complete = '2'"
+4/30/2013 14:48,trex,Updated Record 20,"date = '2013-04-30 14:48:07', psycho6 = '1', psycho13 = '36', score = '78.78990755939837', survey_complete = '2'"
+4/30/2013 14:48,trex,Updated Record 19,"psycho6 = '1', score = '45.495545293170416'"
+4/30/2013 14:47,trex,Updated Record 19,"date = '2013-04-30 14:47:48', score = '75.24803360703987', survey_complete = '2'"
+4/30/2013 14:47,trex,Updated Record 18,"date = '2013-04-30 14:47:40', score = '49.78554508479697', survey_complete = '2'"
+4/30/2013 14:47,trex,Updated Record 17,"date = '2013-04-30 14:47:32', score = '66.58332296590116', survey_complete = '2'"
+4/30/2013 14:47,trex,Updated Record 16,"date = '2013-04-30 14:47:22', score = '29.620249803606846', survey_complete = '2'"
+4/30/2013 14:47,trex,Updated Record 15,"date = '2013-04-30 14:47:12', score = '42.61962899190959', survey_complete = '2'"
+4/30/2013 14:47,trex,Updated Record 14,"date = '2013-04-30 14:47:05', score = '2.767659466286898', survey_complete = '2'"
+4/30/2013 14:46,trex,Updated Record 13,"date = '2013-04-30 14:46:55', score = '2.6022894498371474', survey_complete = '2'"
+4/30/2013 14:46,trex,Updated Record 12,"date = '2013-04-30 14:46:47', score = '51.872455976167764', survey_complete = '2'"
+4/30/2013 14:46,trex,Updated Record 11,"date = '2013-04-30 14:46:38', score = '41.34701006492691', survey_complete = '2'"
+4/30/2013 14:46,trex,Updated Record 10,"date = '2013-04-30 14:46:22', score = '28.725583269418138', survey_complete = '2'"
+4/30/2013 14:46,trex,Updated Record 8,"psycho5 = '2', score = '41.04538339166759', survey_complete = '2'"
+4/30/2013 14:45,trex,Updated Record 1,score = '43.312838278169686'
+4/30/2013 14:44,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/30/2013 14:44,[survey respondent],Created Response 81,"date = '2013-04-30 14:44:07', gender = '2', psycho5 = '2', psycho6 = '2', psycho9 = '1', psycho13 = '68', psycho18(1) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '66.01743236337131', participant_id = '81', survey_complete = '2'"
+4/30/2013 14:44,[survey respondent],Updated Response 81,"psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '66.01743236337131', participant_id = '81', survey_complete = '2'"
+4/30/2013 14:44,[survey respondent],Created Response 80,"date = '2013-04-30 14:43:46', gender = '1', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '100', psycho18(2) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho20 = '0', score = '94.67841756163601', participant_id = '80', survey_complete = '2'"
+4/30/2013 14:44,[survey respondent],Updated Response 80,"gender = '1', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '100', psycho18(2) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho20 = '0', score = '94.67841756163601', participant_id = '80', survey_complete = '2'"
+4/30/2013 14:43,trex,Manage/Design ,Enter draft mode
+4/30/2013 14:43,[survey respondent],Created Response 79,"date = '2013-04-30 14:42:54', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '31', psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '51.654173877495005', participant_id = '79', survey_complete = '2'"
+4/30/2013 14:43,[survey respondent],Created Response 79,"date = '2013-04-30 14:42:54', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '31', psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '51.654173877495005', participant_id = '79', survey_complete = '2'"
+4/30/2013 14:42,[survey respondent],Updated Response 78,"gender = '1', psycho5 = '3', psycho6 = '2', psycho9 = '1', psycho13 = '81', psycho18(6) = checked, psycho20 = '0', score = '4.567802661359954', participant_id = '78', survey_complete = '2'"
+4/30/2013 14:42,[survey respondent],Created Response 78,"date = '2013-04-30 14:42:31', gender = '1', psycho5 = '3', psycho6 = '2', psycho9 = '1', psycho13 = '81', psycho18(6) = checked, psycho20 = '0', score = '4.567802661359954', participant_id = '78', survey_complete = '2'"
+4/30/2013 14:42,[survey respondent],Created Response 77,"date = '2013-04-30 14:42:08', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '28', psycho18(1) = checked, psycho20 = '0', score = '29.241563390161186', participant_id = '77', survey_complete = '2'"
+4/30/2013 14:42,[survey respondent],Updated Response 77,"psycho9 = '0', psycho13 = '28', psycho18(1) = checked, psycho20 = '0', score = '29.241563390161186', participant_id = '77', survey_complete = '2'"
+4/30/2013 13:52,trex,Created User trexa,user = 'trexa'
+4/29/2013 15:51,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/29/2013 15:50,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/29/2013 15:49,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/29/2013 15:49,[survey respondent],Created Response 76,"date = '2013-04-29 15:49:06', gender = '1', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '81', psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '18.616194306863523', participant_id = '76', survey_complete = '2'"
+4/29/2013 15:49,[survey respondent],Updated Response 76,"psycho6 = '3', psycho9 = '1', psycho13 = '81', psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '18.616194306863523', participant_id = '76', survey_complete = '2'"
+4/29/2013 15:48,[survey respondent],Updated Response 75,"psycho18(3) = checked, psycho18(4) = checked, psycho20 = '1', score = '46.08133500838237', participant_id = '75', survey_complete = '2'"
+4/29/2013 15:48,[survey respondent],Created Response 75,"date = '2013-04-29 15:48:42', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '41', psycho18(3) = checked, psycho18(4) = checked, psycho20 = '1', score = '46.08133500838237', participant_id = '75', survey_complete = '2'"
+4/29/2013 15:48,[survey respondent],Updated Response 74,survey_complete = '2'
+4/29/2013 15:48,[survey respondent],Updated Response 74,"psycho5 = '3', score = '48.05458018463462', survey_complete = '2'"
+4/29/2013 15:48,[survey respondent],Created Response 74,"date = '2013-04-29 15:48:05', gender = '2', psycho6 = '2', psycho9 = '0', psycho13 = '71', psycho18(7) = checked, psycho20 = '1', score = '34.754439588104134', participant_id = '74', survey_complete = '0'"
+4/29/2013 15:48,[survey respondent],Created Response 73,"date = '2013-04-29 15:48:05', gender = '2', psycho6 = '2', psycho9 = '0', psycho13 = '71', psycho18(7) = checked, psycho20 = '1', score = '34.754439588104134', participant_id = '73', survey_complete = '0'"
+4/29/2013 15:27,trex,Manage/Design ,Approve production project modifications
+4/29/2013 15:27,trex,Manage/Design ,Request approval for production project modifications
+4/29/2013 15:27,trex,Manage/Design ,Edit project field
+4/29/2013 15:25,trex,Manage/Design ,Edit project field
+4/29/2013 15:24,trex,Manage/Design ,Delete project field
+4/29/2013 15:23,trex,Manage/Design ,Enter draft mode
+4/29/2013 15:23,trex,Manage/Design ,Approve production project modifications
+4/29/2013 15:22,trex,Manage/Design ,Request approval for production project modifications
+4/29/2013 15:22,trex,Manage/Design ,Edit project field
+4/29/2013 15:22,trex,Manage/Design ,Enter draft mode
+4/29/2013 15:21,trex,Manage/Design ,Approve production project modifications
+4/29/2013 15:21,trex,Manage/Design ,Request approval for production project modifications
+4/29/2013 15:21,trex,Manage/Design ,Edit project field
+4/29/2013 15:20,trex,Manage/Design ,Edit project field
+4/29/2013 15:20,trex,Manage/Design ,Enter draft mode
+4/29/2013 15:19,trex,Manage/Design ,Approve production project modifications (automatic)
+4/29/2013 15:19,trex,Manage/Design ,Edit project field
+4/29/2013 15:19,trex,Manage/Design ,Copy project field
+4/29/2013 15:19,trex,Manage/Design ,Delete project field
+4/29/2013 15:19,trex,Manage/Design ,Copy project field
+4/29/2013 15:19,trex,Manage/Design ,Enter draft mode
+4/29/2013 14:25,trex,Manage/Design ,Approve production project modifications
+4/29/2013 14:25,trex,Manage/Design ,Request approval for production project modifications
+4/29/2013 14:25,trex,Manage/Design ,Edit project field
+4/29/2013 13:59,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/26/2013 14:18,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/26/2013 14:18,[survey respondent],Created Response 72,"date = '2013-04-26 14:17:23', gender = '1', psycho5 = '1', psycho6 = '2', psycho9 = '0', psycho13 = '50', psycho18(4) = checked, psycho20 = '1', score = '123', participant_id = '72', survey_complete = '2'"
+4/26/2013 14:06,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 15:06,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 15:06,[survey respondent],Updated Response 71,"participant_id = '71', survey_complete = '2'"
+4/25/2013 15:06,[survey respondent],Created Response 71,"date = '2013-04-25 15:06:02', gender = '1', psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '41', psycho18(7) = checked, psycho20 = '1', score = '123', participant_id = '71', survey_complete = '2'"
+4/25/2013 15:05,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:11,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:09,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:08,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:08,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:07,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:06,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:05,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:03,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:03,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:02,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:02,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:02,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/25/2013 9:01,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:45,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:45,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:08,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:06,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:06,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:04,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:03,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:02,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:01,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:01,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 15:00,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:59,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:58,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:58,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:57,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:56,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:52,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:51,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:51,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:50,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:49,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:49,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:48,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:33,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:33,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:32,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:31,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:30,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:29,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:29,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:28,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:28,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:27,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:27,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:26,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:25,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:24,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:23,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:23,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:22,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:21,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:20,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:19,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:19,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:18,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:17,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:16,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:11,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:06,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 14:05,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:56,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:54,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:52,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:51,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:43,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:42,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:34,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:31,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:29,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 13:29,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:43,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:23,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:22,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:22,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:18,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:18,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:14,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:13,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:03,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 11:00,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 9:48,trex,Manage/Design ,Delete survey participant
+4/24/2013 9:48,trex,Manage/Design ,Delete survey participant
+4/24/2013 9:48,trex,Manage/Design ,Delete survey participant
+4/24/2013 9:48,trex,Manage/Design ,Delete survey participant
+4/24/2013 8:59,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/24/2013 8:59,[survey respondent],Created Response 70,"date = '2013-04-24 08:58:45', gender = '1', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '49', psycho18(1) = checked, psycho18(4) = checked, psycho20 = '1', score = '123', participant_id = '70', survey_complete = '2'"
+4/24/2013 8:57,trex,Manage/Design ,Email survey participants
+4/24/2013 8:57,trex,Manage/Design ,Add survey participants
+4/24/2013 8:55,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:37,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:36,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:36,[survey respondent],Created Response 69,"date = '2013-04-23 11:36:24', gender = '1', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '52', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '69', survey_complete = '2'"
+4/23/2013 11:36,[survey respondent],Created Response 69,"date = '2013-04-23 11:36:24', gender = '1', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '52', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '69', survey_complete = '2'"
+4/23/2013 11:36,[survey respondent],Created Response 68,"date = '2013-04-23 11:36:03', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '47', psycho18(6) = checked, psycho20 = '0', score = '111', participant_id = '68', survey_complete = '2'"
+4/23/2013 11:35,[survey respondent],Updated Response 67,"psycho13 = '49', psycho18(3) = checked, psycho20 = '1', score = '123', participant_id = '67', survey_complete = '2'"
+4/23/2013 11:35,[survey respondent],Created Response 67,"date = '2013-04-23 11:35:44', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '49', psycho18(3) = checked, psycho20 = '1', score = '123', participant_id = '67', survey_complete = '2'"
+4/23/2013 11:35,[survey respondent],Updated Response 66,"psycho13 = '51', psycho18(4) = checked, psycho20 = '0', score = '111', participant_id = '66', survey_complete = '2'"
+4/23/2013 11:35,[survey respondent],Created Response 66,"date = '2013-04-23 11:35:22', gender = '1', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '51', psycho18(4) = checked, psycho20 = '0', score = '111', participant_id = '66', survey_complete = '2'"
+4/23/2013 11:35,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:35,[survey respondent],Created Response 65,"date = '2013-04-23 11:34:51', gender = '1', psycho5 = '1', psycho6 = '2', psycho9 = '0', psycho13 = '49', psycho18(5) = checked, psycho20 = '0', score = '111', participant_id = '65', survey_complete = '2'"
+4/23/2013 11:34,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:34,[survey respondent],Updated Response 64,"psycho6 = '1', psycho9 = '0', psycho13 = '50', psycho18(6) = checked, psycho20 = '0', score = '111', participant_id = '64', survey_complete = '2'"
+4/23/2013 11:34,[survey respondent],Created Response 64,"date = '2013-04-23 11:34:19', gender = '1', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '50', psycho18(6) = checked, psycho20 = '0', score = '111', participant_id = '64', survey_complete = '2'"
+4/23/2013 11:33,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:33,[survey respondent],Updated Response 63,"psycho9 = '1', psycho13 = '49', psycho18(7) = checked, psycho20 = '1', score = '123', participant_id = '63', survey_complete = '2'"
+4/23/2013 11:33,[survey respondent],Created Response 63,"date = '2013-04-23 11:33:47', gender = '1', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '49', psycho18(7) = checked, psycho20 = '1', score = '123', participant_id = '63', survey_complete = '2'"
+4/23/2013 11:33,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:33,[survey respondent],Updated Response 62,"psycho5 = '2', psycho6 = '3', psycho9 = '0', psycho13 = '50', psycho18(2) = checked, psycho20 = '0', score = '111', participant_id = '62', survey_complete = '2'"
+4/23/2013 11:33,[survey respondent],Created Response 62,"date = '2013-04-23 11:33:15', psycho5 = '2', psycho6 = '3', psycho9 = '0', psycho13 = '50', psycho18(2) = checked, psycho20 = '0', score = '111', participant_id = '62', survey_complete = '2'"
+4/23/2013 11:33,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:32,[survey respondent],Created Response 61,"date = '2013-04-23 11:32:44', gender = '1', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '50', psycho18(4) = checked, psycho20 = '0', score = '111', participant_id = '61', survey_complete = '2'"
+4/23/2013 11:32,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:32,[survey respondent],Created Response 60,"date = '2013-04-23 11:32:13', gender = '1', psycho5 = '1', psycho6 = '1', psycho9 = '1', psycho13 = '51', psycho18(1) = checked, psycho20 = '0', score = '111', participant_id = '60', survey_complete = '2'"
+4/23/2013 11:32,[survey respondent],Updated Response 60,"psycho5 = '1', psycho6 = '1', psycho9 = '1', psycho13 = '51', psycho18(1) = checked, psycho20 = '0', score = '111', participant_id = '60', survey_complete = '2'"
+4/23/2013 11:31,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:31,[survey respondent],Updated Response 59,"gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '100', psycho18(4) = checked, psycho20 = '0', score = '111', participant_id = '59', survey_complete = '2'"
+4/23/2013 11:31,[survey respondent],Created Response 59,"date = '2013-04-23 11:31:25', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '100', psycho18(4) = checked, psycho20 = '0', score = '111', participant_id = '59', survey_complete = '2'"
+4/23/2013 11:31,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:31,[survey respondent],Created Response 58,"date = '2013-04-23 11:30:41', gender = '1', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '12', psycho18(5) = checked, psycho20 = '1', score = '123', participant_id = '58', survey_complete = '2'"
+4/23/2013 11:30,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:30,[survey respondent],Updated Response 57,"psycho6 = '1', psycho9 = '1', psycho13 = '41', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '57', survey_complete = '2'"
+4/23/2013 11:30,[survey respondent],Created Response 57,"date = '2013-04-23 11:30:13', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '41', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '57', survey_complete = '2'"
+4/23/2013 11:30,[survey respondent],Updated Response 56,"gender = '1', psycho5 = '1', psycho6 = '3', psycho9 = '0', psycho13 = '29', psycho18(2) = checked, psycho20 = '1', score = '123', participant_id = '56', survey_complete = '2'"
+4/23/2013 11:30,[survey respondent],Created Response 56,"date = '2013-04-23 11:29:53', gender = '1', psycho5 = '1', psycho6 = '3', psycho9 = '0', psycho13 = '29', psycho18(2) = checked, psycho20 = '1', score = '123', participant_id = '56', survey_complete = '2'"
+4/23/2013 11:29,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:29,[survey respondent],Created Response 55,"date = '2013-04-23 11:29:16', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '5', psycho18(1) = checked, psycho18(6) = checked, psycho20 = '0', score = '111', participant_id = '55', survey_complete = '2'"
+4/23/2013 11:28,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:28,[survey respondent],Created Response 54,"date = '2013-04-23 11:28:38', gender = '1', psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '6', psycho18(1) = checked, psycho20 = '0', score = '111', participant_id = '54', survey_complete = '2'"
+4/23/2013 11:28,[survey respondent],Updated Response 54,"psycho9 = '0', psycho13 = '6', psycho18(1) = checked, psycho20 = '0', score = '111', participant_id = '54', survey_complete = '2'"
+4/23/2013 11:28,[survey respondent],Created Response 53,"date = '2013-04-23 11:28:08', gender = '1', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '3', psycho18(1) = checked, psycho20 = '0', score = '111', participant_id = '53', survey_complete = '2'"
+4/23/2013 11:28,[survey respondent],Updated Response 52,"psycho13 = '16', psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '52', survey_complete = '2'"
+4/23/2013 11:28,[survey respondent],Created Response 52,"date = '2013-04-23 11:27:47', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '16', psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '52', survey_complete = '2'"
+4/23/2013 11:27,[survey respondent],Created Response 51,"date = '2013-04-23 11:27:24', gender = '1', psycho5 = '3', psycho6 = '1', psycho9 = '1', psycho13 = '0', psycho18(6) = checked, psycho20 = '0', score = '111', participant_id = '51', survey_complete = '2'"
+4/23/2013 11:26,[survey respondent],Created Response 50,"date = '2013-04-23 11:26:35', gender = '1', psycho5 = '2', psycho6 = '2', psycho9 = '1', psycho13 = '7', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '50', survey_complete = '2'"
+4/23/2013 11:26,[survey respondent],Updated Response 50,"psycho5 = '2', psycho6 = '2', psycho9 = '1', psycho13 = '7', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '50', survey_complete = '2'"
+4/23/2013 11:25,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:25,[survey respondent],Created Response 49,"date = '2013-04-23 11:25:14', gender = '1', psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '8', psycho18(4) = checked, psycho18(5) = checked, psycho20 = '0', score = '111', participant_id = '49', survey_complete = '2'"
+4/23/2013 11:25,[survey respondent],Updated Response 49,"psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '8', psycho18(4) = checked, psycho18(5) = checked, psycho20 = '0', score = '111', participant_id = '49', survey_complete = '2'"
+4/23/2013 11:25,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:24,[survey respondent],Created Response 48,"date = '2013-04-23 11:24:44', gender = '1', psycho5 = '1', psycho6 = '3', psycho9 = '0', psycho13 = '6', psycho18(1) = checked, psycho18(2) = checked, psycho20 = '1', score = '123', participant_id = '48', survey_complete = '2'"
+4/23/2013 11:24,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 11:24,[survey respondent],Created Response 47,"date = '2013-04-23 11:23:44', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '48', psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '47', survey_complete = '2'"
+4/23/2013 11:23,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 10:21,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 10:20,[survey respondent],Created Response 46,"date = '2013-04-23 10:20:29', gender = '2', psycho5 = '1', psycho6 = '2', psycho9 = '0', psycho13 = '65', psycho18(1) = checked, psycho18(2) = checked, psycho18(3) = checked, psycho20 = '0', score = '111', participant_id = '46', survey_complete = '2'"
+4/23/2013 10:19,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 10:12,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:54,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:52,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:52,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:47,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:47,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:46,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:31,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:29,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:23,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:22,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:22,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:01,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 9:00,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:59,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:59,[survey respondent],Updated Response 45,
+4/23/2013 8:59,[survey respondent],Updated Response 45,"psycho13 = '59', survey_complete = '2'"
+4/23/2013 8:59,[survey respondent],Created Response 45,"date = '2013-04-23 08:58:55', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho18(7) = checked, psycho20 = '1', score = '123', participant_id = '45', survey_complete = '0'"
+4/23/2013 8:56,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:54,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:38,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:38,[survey respondent],Updated Response 44,"psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '45', psycho18(2) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho20 = '1', score = '123', participant_id = '44', survey_complete = '2'"
+4/23/2013 8:38,[survey respondent],Created Response 44,"date = '2013-04-23 08:37:52', psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '45', psycho18(2) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho20 = '1', score = '123', participant_id = '44', survey_complete = '2'"
+4/23/2013 8:37,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:37,[survey respondent],Updated Response 42,survey_complete = '2'
+4/23/2013 8:37,[survey respondent],Updated Response 42,"date = '2013-04-23 08:37:29', survey_complete = '2'"
+4/23/2013 8:37,[survey respondent],Updated Response 42,
+4/23/2013 8:37,[survey respondent],Updated Response 42,
+4/23/2013 8:37,[survey respondent],Updated Response 42,
+4/23/2013 8:37,[survey respondent],Updated Response 42,
+4/23/2013 8:37,[survey respondent],Updated Response 42,
+4/23/2013 8:36,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:36,[survey respondent],Created Response 43,"date = ' ', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '36', psycho18(1) = checked, psycho18(2) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '123', participant_id = '43', survey_complete = '0'"
+4/23/2013 8:36,[survey respondent],Created Response 42,"date = ' ', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '36', psycho18(1) = checked, psycho18(2) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '1', score = '123', participant_id = '42', survey_complete = '0'"
+4/23/2013 8:35,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:35,[survey respondent],Created Response 41,"date = '2013-04-23 08:35:03', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '90', psycho18(1) = checked, psycho18(2) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '41', survey_complete = '2'"
+4/23/2013 8:35,[survey respondent],Updated Response 41,"psycho9 = '0', psycho13 = '90', psycho18(1) = checked, psycho18(2) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '41', survey_complete = '2'"
+4/23/2013 8:34,trex,Manage/Design ,Enter draft mode
+4/23/2013 8:32,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:32,trex,Created Record (import) 40,"participant_id = '40', psycho9 = '1', psycho13 = '1', psycho18(1) = checked, psycho18(4) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 39,"participant_id = '39', psycho6 = '3', psycho13 = '1', psycho18(2) = checked, psycho18(4) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 38,"participant_id = '38', gender = '2', psycho5 = '3', psycho6 = '3', psycho9 = '0', psycho13 = '2', psycho18(2) = checked, psycho18(6) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 37,"participant_id = '37', gender = '1', psycho5 = '1', psycho6 = '3', psycho9 = '0', psycho13 = '0', psycho18(3) = checked, psycho18(6) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 36,"participant_id = '36', gender = '1', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '79', psycho18(1) = checked, psycho18(3) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 35,"participant_id = '35', gender = '2', psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '16', psycho18(1) = checked, psycho18(2) = checked, psycho18(7) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 34,"participant_id = '34', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '12', psycho18(4) = checked, psycho18(7) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 33,"participant_id = '33', gender = '1', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '88', psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 32,"participant_id = '32', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '3', psycho18(2) = checked, psycho18(4) = checked, psycho18(6) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 31,"participant_id = '31', gender = '1', psycho5 = '3', psycho6 = '2', psycho9 = '0', psycho13 = '2', psycho18(2) = checked, psycho18(3) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 30,"participant_id = '30', gender = '2', psycho5 = '1', psycho13 = '40', psycho18(1) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 29,"participant_id = '29', gender = '1', psycho5 = '1', psycho6 = '3', psycho9 = '1', psycho18(1) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(7) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 28,"participant_id = '28', gender = '2', psycho5 = '2', psycho6 = '3', psycho13 = '30', psycho18(2) = checked, psycho18(4) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 27,"participant_id = '27', gender = '1', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '29', psycho18(7) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 26,"participant_id = '26', gender = '2', psycho5 = '1', psycho6 = '3', psycho9 = '1', psycho13 = '67', psycho18(2) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 25,"participant_id = '25', gender = '1', psycho6 = '1', psycho9 = '0', psycho13 = '85', psycho18(1) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 24,"participant_id = '24', gender = '2', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho18(1) = checked, psycho18(5) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 23,"participant_id = '23', gender = '1', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '3', psycho18(4) = checked, psycho18(6) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 22,"participant_id = '22', gender = '1', psycho5 = '1', psycho6 = '1', psycho9 = '1', psycho13 = '22', psycho18(2) = checked, psycho18(5) = checked, psycho18(6) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 21,"participant_id = '21', gender = '1', psycho5 = '1', psycho6 = '2', psycho9 = '0', psycho13 = '100', psycho18(4) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 20,"participant_id = '20', gender = '2', psycho5 = '2', psycho9 = '0', psycho13 = '0', psycho18(1) = checked, psycho18(3) = checked, psycho18(5) = checked, psycho18(7) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 19,"participant_id = '19', gender = '2', psycho5 = '2', psycho9 = '1', psycho13 = '89', psycho18(1) = checked, psycho18(3) = checked, psycho18(4) = checked, psycho18(5) = checked, psycho18(7) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 18,"participant_id = '18', gender = '2', psycho5 = '1', psycho6 = '3', psycho9 = '1', psycho13 = '67', psycho18(2) = checked, psycho18(4) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 17,"participant_id = '17', gender = '2', psycho5 = '1', psycho6 = '3', psycho9 = '0', psycho13 = '60', psycho18(6) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 16,"participant_id = '16', gender = '2', psycho5 = '3', psycho6 = '3', psycho9 = '0', psycho13 = '55', psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 15,"participant_id = '15', gender = '1', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '50', psycho18(1) = checked, psycho18(2) = checked, psycho18(6) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 14,"participant_id = '14', gender = '2', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '20', psycho18(1) = checked, psycho18(3) = checked, psycho18(5) = checked, psycho18(7) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 13,"participant_id = '13', gender = '1', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '80', psycho18(4) = checked, psycho20 = '0'"
+4/23/2013 8:32,trex,Created Record (import) 12,"participant_id = '12', gender = '2', psycho5 = '2', psycho6 = '1', psycho9 = '1', psycho13 = '79', psycho18(3) = checked, psycho18(5) = checked, psycho18(7) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 11,"participant_id = '11', gender = '1', psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '3', psycho18(1) = checked, psycho18(2) = checked, psycho18(4) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Created Record (import) 10,"participant_id = '10', gender = '1', psycho5 = '1', psycho6 = '2', psycho9 = '0', psycho13 = '1', psycho18(2) = checked, psycho20 = '1'"
+4/23/2013 8:32,trex,Updated Record (import) 9,
+4/23/2013 8:32,trex,Updated Record (import) 8,
+4/23/2013 8:32,trex,Updated Record (import) 7,comments = 'Uh....you didn't see me.'
+4/23/2013 8:32,trex,Updated Record (import) 6,
+4/23/2013 8:32,trex,Updated Record (import) 5,"comments = 'You won't tell my boss, will you?'"
+4/23/2013 8:32,trex,Updated Record (import) 4,
+4/23/2013 8:32,trex,Updated Record (import) 3,
+4/23/2013 8:32,trex,Updated Record (import) 2,
+4/23/2013 8:32,trex,Updated Record (import) 1,
+4/23/2013 8:19,trex,Manage/Design ,Download exported data file (CSV raw)
+4/23/2013 8:19,trex,Data Export ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:18,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:17,[survey respondent],Updated Response 9,
+4/23/2013 8:17,[survey respondent],Updated Response 9,"psycho5 = '1', survey_complete = '2'"
+4/23/2013 8:17,[survey respondent],Updated Response 9,
+4/23/2013 8:17,[survey respondent],Updated Response 9,
+4/23/2013 8:17,[survey respondent],Created Response 9,"date = '2013-04-23 08:17:02', gender = '1', psycho6 = '3', psycho9 = '1', psycho13 = '79', psycho18(3) = checked, psycho20 = '0', score = '111', participant_id = '9', survey_complete = '0'"
+4/23/2013 8:17,[survey respondent],Created Response 8,"date = '2013-04-23 08:17:02', gender = '1', psycho6 = '3', psycho9 = '1', psycho13 = '79', psycho18(3) = checked, psycho20 = '0', score = '111', participant_id = '8', survey_complete = '0'"
+4/23/2013 8:16,trex,Updated Record 6,
+4/23/2013 8:05,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:04,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:02,rainbow,Data Export (API) ,"participant_id, date, gender, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/23/2013 8:01,trex,Updated Record 6,"gender = '2', comments = 'This was fun.'"
+4/23/2013 8:01,[survey respondent],Created Response 7,"date = '2013-04-23 08:00:45', gender = '2', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '75', psycho18(7) = checked, psycho20 = '0', score = '111', comments = 'Uh....you didn't see me.', participant_id = '7', survey_complete = '2'"
+4/23/2013 8:01,[survey respondent],Updated Response 7,"gender = '2', psycho5 = '2', psycho6 = '3', psycho9 = '1', psycho13 = '75', psycho18(7) = checked, psycho20 = '0', score = '111', comments = 'Uh....you didn't see me.', participant_id = '7', survey_complete = '2'"
+4/23/2013 8:00,trex,Updated Record 5,"gender = '2', comments = 'You won't tell my boss, will you?'"
+4/23/2013 8:00,trex,Updated Record 4,"gender = '2', score = '123'"
+4/23/2013 7:59,trex,Updated Record 3,"gender = '2', psycho9 = '1', psycho13 = '18', score = '123', comments = 'Will this be used against me in a court of law?'"
+4/23/2013 7:59,trex,Updated Record 2,"gender = '2', psycho5 = '1', psycho6 = '1', psycho9 = '0', psycho13 = '63', psycho18(2) = checked, score = '123', comments = 'Who see these answers?'"
+4/23/2013 7:58,trex,Updated Record 1,"gender = '1', psycho9 = '0', psycho13 = '10', score = '123', comments = 'Is this for real?'"
+4/23/2013 7:58,trex,Manage/Design ,Approve production project modifications
+4/23/2013 7:58,trex,Manage/Design ,Request approval for production project modifications
+4/23/2013 7:58,trex,Manage/Design ,Edit project field
+4/23/2013 7:57,trex,Manage/Design ,Create project field
+4/23/2013 7:57,trex,Manage/Design ,Enter draft mode
+4/23/2013 7:51,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 15:05,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 15:05,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 14:56,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 14:55,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 14:53,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 14:51,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 14:47,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 14:22,rainbow,Data Export (API) ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/22/2013 10:26,trex,Created User ReportPhiFree,user = 'ReportPhiFree'
+4/22/2013 10:13,trex,Manage/Design ,Email survey participants
+4/22/2013 10:06,trex,Manage/Design ,Add survey participants
+4/22/2013 10:06,trex,Manage/Design ,Delete survey participant
+4/22/2013 10:03,[survey respondent],Created Response 6,"date = '2013-04-22 10:01:49', psycho5 = '3', psycho6 = '3', psycho9 = '1', psycho13 = '73', psycho18(2) = checked, psycho18(6) = checked, psycho20 = '0', score = '111', participant_id = '6', survey_complete = '2'"
+4/22/2013 10:00,trex,Manage/Design ,Email survey participants
+4/22/2013 10:00,trex,Manage/Design ,Add survey participants
+4/19/2013 9:27,[survey respondent],Updated Response 5,
+4/19/2013 9:27,[survey respondent],Updated Response 5,"date = '2013-04-19 09:27:51', survey_complete = '2'"
+4/19/2013 9:27,[survey respondent],Created Response 5,"date = ' ', psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '35', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '5', survey_complete = '0'"
+4/19/2013 9:27,[survey respondent],Updated Response 5,"psycho5 = '2', psycho6 = '1', psycho9 = '0', psycho13 = '35', psycho18(7) = checked, psycho20 = '0', score = '111', participant_id = '5', survey_complete = '0'"
+4/19/2013 9:27,trex,Manage/Design ,Approve production project modifications
+4/19/2013 9:27,trex,Manage/Design ,Request approval for production project modifications
+4/19/2013 9:27,trex,Manage/Design ,Add/edit branching logic
+4/19/2013 9:26,trex,Manage/Design ,Edit project field
+4/19/2013 9:26,trex,Manage/Design ,Enter draft mode
+4/19/2013 9:25,[survey respondent],Created Response 4,"date = '2013-04-19 09:25:40', psycho5 = '3', psycho6 = '1', psycho9 = '0', psycho13 = '74', psycho18(6) = checked, psycho20 = '1', score = '197', comments = 'afdsaf', participant_id = '4', survey_complete = '2'"
+4/19/2013 9:25,[survey respondent],Updated Response 4,"psycho6 = '1', psycho9 = '0', psycho13 = '74', psycho18(6) = checked, psycho20 = '1', score = '197', comments = 'afdsaf', participant_id = '4', survey_complete = '2'"
+4/19/2013 7:42,trex,Created User wbeasley,user = 'wbeasley'
+4/19/2013 7:41,trex,Created User dbard,user = 'dbard'
+4/18/2013 10:07,trex,Data Export ,"participant_id, date, psycho5, psycho6, psycho9, psycho13, psycho18, psycho20, score, comments, survey_complete"
+4/17/2013 14:36,trex,Manage/Design ,Modify survey info
+4/17/2013 14:34,trex,Manage/Design ,Modify survey info
+4/17/2013 14:29,trex,Manage/Design ,Modify project settings
+4/17/2013 14:28,trex,Manage/Design ,Modify project settings
+4/17/2013 12:07,trex,Manage/Design ,Modify survey info
+4/17/2013 11:57,trex,Manage/Design ,Modify survey info
+4/17/2013 11:50,trex,Manage/Design ,Email survey participants
+4/17/2013 11:49,trex,Manage/Design ,Add survey participants
+4/17/2013 11:49,trex,Manage/Design ,Delete survey participant
+4/17/2013 11:31,trex,Manage/Design ,Approve production project modifications
+4/17/2013 11:31,trex,Manage/Design ,Request approval for production project modifications
+4/17/2013 11:30,trex,Manage/Design ,Edit project field
+4/17/2013 11:30,trex,Manage/Design ,Edit project field
+4/17/2013 11:30,trex,Manage/Design ,Edit project field
+4/17/2013 11:30,trex,Manage/Design ,Edit project field
+4/17/2013 11:30,trex,Manage/Design ,Edit project field
+4/17/2013 11:30,trex,Manage/Design ,Edit project field
+4/17/2013 11:29,trex,Manage/Design ,Edit project field
+4/17/2013 11:29,trex,Manage/Design ,Edit project field
+4/17/2013 11:29,trex,Manage/Design ,Edit project field
+4/17/2013 11:28,trex,Manage/Design ,Edit project field
+4/17/2013 11:28,trex,Manage/Design ,Edit project field
+4/17/2013 11:27,trex,Manage/Design ,Edit project field
+4/17/2013 11:26,trex,Manage/Design ,Edit project field
+4/17/2013 11:26,trex,Manage/Design ,Edit project field
+4/17/2013 11:25,trex,Manage/Design ,Edit project field
+4/17/2013 11:25,trex,Manage/Design ,Edit project field
+4/17/2013 11:23,trex,Manage/Design ,Edit project field
+4/17/2013 11:19,trex,Manage/Design ,Create project field
+4/17/2013 11:18,trex,Manage/Design ,Edit project field
+4/17/2013 11:16,trex,Manage/Design ,Edit project field
+4/17/2013 11:11,trex,Manage/Design ,Enter draft mode
+4/17/2013 11:09,trex,Manage/Design ,Modify survey info
+4/17/2013 11:07,trex,Manage/Design ,Approve production project modifications
+4/17/2013 11:06,trex,Manage/Design ,Request approval for production project modifications
+4/17/2013 11:06,trex,Manage/Design ,Edit project field
+4/17/2013 11:06,trex,Manage/Design ,Edit project field
+4/17/2013 11:06,trex,Manage/Design ,Edit project field
+4/17/2013 11:06,trex,Manage/Design ,Edit project field
+4/17/2013 11:05,trex,Manage/Design ,Edit project field
+4/17/2013 11:05,trex,Manage/Design ,Edit project field
+4/17/2013 11:05,trex,Manage/Design ,Enter draft mode
+4/17/2013 11:04,trex,Manage/Design ,Approve production project modifications
+4/17/2013 11:04,trex,Manage/Design ,Request approval for production project modifications
+4/17/2013 11:04,trex,Manage/Design ,Delete project field
+4/17/2013 11:04,trex,Manage/Design ,Delete project field
+4/17/2013 11:03,trex,Manage/Design ,Delete project field
+4/17/2013 11:03,trex,Manage/Design ,Delete project field
+4/17/2013 11:03,trex,Manage/Design ,Delete project field
+4/17/2013 11:03,trex,Manage/Design ,Delete project field
+4/17/2013 11:02,trex,Manage/Design ,Delete project field
+4/17/2013 11:02,trex,Manage/Design ,Delete project field
+4/17/2013 11:02,trex,Manage/Design ,Delete project field
+4/17/2013 11:02,trex,Manage/Design ,Delete project field
+4/17/2013 11:01,trex,Manage/Design ,Delete project field
+4/17/2013 11:01,trex,Manage/Design ,Delete project field
+4/17/2013 11:00,trex,Manage/Design ,Delete project field
+4/17/2013 11:00,trex,Manage/Design ,Delete project field
+4/17/2013 11:00,trex,Manage/Design ,Enter draft mode
+4/17/2013 10:42,trex,Manage/Design ,Email survey link to self
+4/17/2013 10:37,trex,Manage/Design ,Email survey participants
+4/17/2013 10:25,trex,Manage/Design ,Add survey participants
+4/17/2013 10:25,trex,Manage/Design ,Delete survey participant
+4/17/2013 9:27,[survey respondent],Updated Response 3,"psycho12 = '3', psycho19 = '1', psycho20 = '1', score = '197', survey_complete = '2'"
+4/17/2013 9:26,[survey respondent],Created Response 3,"date = '2013-04-17 09:25:28', psycho1 = '2', psycho2 = '2', psycho3 = '1', psycho4 = '1', psycho5 = '2', psycho6 = '1', psycho7 = '2', psycho8 = '1', psycho9 = '3', psycho10 = '3', psycho11 = '1', psycho13 = '3', psycho14 = '3', psycho15 = '3', psycho16 = '1', psycho17 = '1', psycho18 = '3', psycho19 = '3', psycho20 = '3', score = '172', participant_id = '3', survey_complete = '0'"
+4/16/2013 14:33,trex,Manage/Design ,Email survey participants
+4/16/2013 14:32,trex,Manage/Design ,Add survey participants
+4/16/2013 14:17,trex,Manage/Design ,Download exported data file (CSV raw)
+4/16/2013 14:17,trex,Data Export ,"participant_id, date, psycho1, psycho2, psycho3, psycho4, psycho5, psycho6, psycho7, psycho8, psycho9, psycho10, psycho11, psycho12, psycho13, psycho14, psycho15, psycho16, psycho17, psycho18, psycho19, psycho20, score, survey_complete"
+4/16/2013 11:11,trex,Manage/Design ,Approve production project modifications
+4/16/2013 11:11,trex,Manage/Design ,Request approval for production project modifications
+4/16/2013 11:11,trex,Manage/Design ,Edit project field
+4/16/2013 11:11,trex,Manage/Design ,Edit project field
+4/16/2013 11:11,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:10,trex,Manage/Design ,Edit project field
+4/16/2013 11:09,trex,Manage/Design ,Edit project field
+4/16/2013 11:09,trex,Manage/Design ,Edit project field
+4/16/2013 11:09,trex,Manage/Design ,Edit project field
+4/16/2013 11:09,trex,Manage/Design ,Edit project field
+4/16/2013 11:00,trex,Manage/Design ,Edit project field
+4/16/2013 11:00,trex,Manage/Design ,Edit project field
+4/16/2013 11:00,trex,Manage/Design ,Edit project field
+4/16/2013 10:59,trex,Manage/Design ,Edit project field
+4/16/2013 10:59,trex,Manage/Design ,Enter draft mode
+4/16/2013 10:59,[survey respondent],Created Response 2,"date = '2013-04-16 10:58:53', psycho20 = '1', score = '197', participant_id = '2', survey_complete = '2'"
+4/16/2013 10:58,trex,Manage/Design ,Approve production project modifications
+4/16/2013 10:58,trex,Manage/Design ,Request approval for production project modifications
+4/16/2013 10:58,trex,Manage/Design ,Edit project field
+4/16/2013 10:58,trex,Manage/Design ,Edit project field
+4/16/2013 10:57,trex,Manage/Design ,Edit project field
+4/16/2013 10:57,trex,Manage/Design ,Edit project field
+4/16/2013 10:57,trex,Manage/Design ,Edit project field
+4/16/2013 10:57,trex,Manage/Design ,Edit project field
+4/16/2013 10:57,trex,Manage/Design ,Edit project field
+4/16/2013 10:56,trex,Manage/Design ,Edit project field
+4/16/2013 10:56,trex,Manage/Design ,Edit project field
+4/16/2013 10:56,trex,Manage/Design ,Edit project field
+4/16/2013 10:55,trex,Manage/Design ,Edit project field
+4/16/2013 10:55,trex,Manage/Design ,Edit project field
+4/16/2013 10:55,trex,Manage/Design ,Edit project field
+4/16/2013 10:55,trex,Manage/Design ,Edit project field
+4/16/2013 10:54,trex,Manage/Design ,Edit project field
+4/16/2013 10:54,trex,Manage/Design ,Edit project field
+4/16/2013 10:54,trex,Manage/Design ,Edit project field
+4/16/2013 10:54,trex,Manage/Design ,Edit project field
+4/16/2013 10:54,trex,Manage/Design ,Edit project field
+4/16/2013 10:53,trex,Manage/Design ,Edit project field
+4/16/2013 10:53,trex,Manage/Design ,Edit project field
+4/16/2013 10:53,trex,Manage/Design ,Edit project field
+4/16/2013 10:53,trex,Manage/Design ,Edit project field
+4/16/2013 10:52,trex,Manage/Design ,Edit project field
+4/16/2013 10:52,trex,Manage/Design ,Edit project field
+4/16/2013 10:52,trex,Manage/Design ,Edit project field
+4/16/2013 10:52,trex,Manage/Design ,Edit project field
+4/16/2013 10:52,trex,Manage/Design ,Edit project field
+4/16/2013 10:52,trex,Manage/Design ,Edit project field
+4/16/2013 10:52,trex,Manage/Design ,Edit project field
+4/16/2013 10:51,trex,Manage/Design ,Edit project field
+4/16/2013 10:51,trex,Manage/Design ,Edit project field
+4/16/2013 10:51,trex,Manage/Design ,Edit project field
+4/16/2013 10:51,trex,Manage/Design ,Edit project field
+4/16/2013 10:50,trex,Manage/Design ,Edit project field
+4/16/2013 10:50,trex,Manage/Design ,Enter draft mode
+4/16/2013 10:49,[survey respondent],Created Response 1,"date = '2013-04-16 10:49:10', psycho1 = '1', psycho2 = '2', psycho3 = '3', psycho4 = '2', psycho5 = '2', psycho6 = '2', psycho7 = '1', psycho8 = '2', psycho9 = '3', psycho10 = '1', psycho11 = '2', psycho12 = '2', psycho13 = '3', psycho14 = '1', psycho15 = '2', psycho16 = '1', psycho17 = '3', psycho18 = '3', psycho19 = '1', psycho20 = '1', score = '197', participant_id = '1', survey_complete = '2'"
+4/16/2013 10:48,trex,Manage/Design ,Email survey participants
+4/16/2013 10:48,trex,Manage/Design ,Add survey participants
+4/16/2013 10:47,trex,Manage/Design ,Move project to production status
+4/16/2013 10:47,trex,Manage/Design ,Enabled survey notification for user
+4/16/2013 10:46,trex,Manage/Design ,Modify survey info
+4/16/2013 10:46,trex,Manage/Design ,Modify survey info
+4/16/2013 10:44,trex,Manage/Design ,Delete project field
+4/16/2013 10:32,trex,Manage/Design ,Edit project field
+4/16/2013 10:29,trex,Manage/Design ,Edit project field
+4/16/2013 10:18,trex,Manage/Design ,Edit project field
+4/16/2013 10:15,trex,Manage/Design ,Edit project field
+4/16/2013 10:11,trex,Manage/Design ,Reorder project fields
+4/16/2013 10:11,trex,Manage/Design ,Edit project field
+4/16/2013 10:10,trex,Manage/Design ,Edit project field
+4/16/2013 10:08,trex,Manage/Design ,Edit project field
+4/16/2013 10:06,trex,Manage/Design ,Add/edit branching logic
+4/16/2013 10:06,trex,Manage/Design ,Add/edit branching logic
+4/16/2013 10:06,trex,Manage/Design ,Edit project field
+4/16/2013 10:06,trex,Manage/Design ,Reorder project fields
+4/16/2013 10:04,trex,Manage/Design ,Edit project field
+4/16/2013 10:02,trex,Manage/Design ,Add/edit branching logic
+4/16/2013 10:02,trex,Manage/Design ,Add/edit branching logic
+4/16/2013 10:01,trex,Manage/Design ,Edit project field
+4/16/2013 10:01,trex,Manage/Design ,Create project field
+4/16/2013 10:00,trex,Manage/Design ,Create project field
+4/16/2013 9:59,trex,Manage/Design ,Edit project field
+4/16/2013 9:55,trex,Manage/Design ,Delete project field
+4/16/2013 9:54,trex,Manage/Design ,Create project field
+4/16/2013 9:53,trex,Manage/Design ,Create project field
+4/16/2013 9:53,trex,Manage/Design ,Create project field
+4/16/2013 9:53,trex,Manage/Design ,Create project field
+4/16/2013 9:52,trex,Manage/Design ,Create project field
+4/16/2013 9:52,trex,Manage/Design ,Create project field
+4/16/2013 9:51,trex,Manage/Design ,Create project field
+4/16/2013 9:51,trex,Manage/Design ,Create project field
+4/16/2013 9:51,trex,Manage/Design ,Create project field
+4/16/2013 9:51,trex,Manage/Design ,Create project field
+4/16/2013 9:50,trex,Manage/Design ,Create project field
+4/16/2013 9:50,trex,Manage/Design ,Create project field
+4/16/2013 9:50,trex,Manage/Design ,Create project field
+4/16/2013 9:50,trex,Manage/Design ,Create project field
+4/16/2013 9:49,trex,Manage/Design ,Create project field
+4/16/2013 9:49,trex,Manage/Design ,Create project field
+4/16/2013 9:49,trex,Manage/Design ,Create project field
+4/16/2013 9:48,trex,Manage/Design ,Create project field
+4/16/2013 9:48,trex,Manage/Design ,Create project field
+4/16/2013 9:47,trex,Manage/Design ,Create project field
+4/16/2013 9:47,trex,Manage/Design ,Create project field
+4/16/2013 9:46,trex,Manage/Design ,Modify survey info
+4/16/2013 9:21,trex,Manage/Design ,Create project field
+4/16/2013 9:21,trex,Manage/Design ,Set up survey
+4/16/2013 9:14,trex,Manage/Design ,Create project

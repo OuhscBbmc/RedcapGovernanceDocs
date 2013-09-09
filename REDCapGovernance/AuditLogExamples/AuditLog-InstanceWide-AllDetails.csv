@@ -1,0 +1,75 @@
+log_event_id,project_id,ts,user,ip,page,event,object_type,sql_log,pk,event_id,data_values,description,legacy,change_reason
+6,0,2.01205E+13,raptor,xxx.xxx.xxx.xxx,ControlCenter/user_controls_ajax.php,MANAGE,redcap_user_information,update redcap_user_information set super_user = 1 where username = 'trex',trex,NULL,username = 'trex',Designate super user,0,NULL
+7,0,2.01205E+13,raptor,xxx.xxx.xxx.xxx,ControlCenter/file_upload_settings.php,MANAGE,redcap_config,UPDATE redcap_config SET value = 'C:\\\\edocs' WHERE field_name = 'edoc_path',,NULL,edoc_path = 'C:\\edocs',Modify system configuration,0,NULL
+8,0,2.01205E+13,raptor,xxx.xxx.xxx.xxx,ControlCenter/file_upload_settings.php,MANAGE,redcap_config,UPDATE redcap_config SET value = '10' WHERE field_name = 'edoc_upload_max',,NULL,edoc_upload_max = '10',Modify system configuration,0,NULL
+9,4,2.01205E+13,raptor,xxx.xxx.xxx.xxx,ProjectGeneral/create_project.php,MANAGE,redcap_projects,NULL,4,NULL,project_id = 4,Create project,0,NULL
+10,4,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/data_dictionary_download.php,MANAGE,redcap_metadata,NULL,4,NULL,project_id = 4,Download data dictionary,0,NULL
+11,4,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/data_dictionary_download.php,MANAGE,redcap_metadata,NULL,4,NULL,project_id = 4,Download data dictionary,0,NULL
+12,4,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/data_dictionary_upload.php,MANAGE,redcap_metadata,NULL,4,NULL,project_id = 4,Upload data dictionary,0,NULL
+13,5,2.01205E+13,trex,xxx.xxx.xxx.xxx,ProjectGeneral/create_project.php,MANAGE,redcap_projects,NULL,NULL,NULL,NULL,Create project,0,NULL
+14,5,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/data_dictionary_upload.php,MANAGE,redcap_metadata,NULL,NULL,NULL,NULL,Upload data dictionary,0,NULL
+15,5,2.01205E+13,bigman,xxx.xxx.xxx.xxx,FileRepository/index.php,MANAGE,redcap_docs,NULL,NULL,NULL,NULL,Upload document to file repository,0,NULL
+25,5,2.01205E+13,bigman,xxx.xxx.xxx.xxx,FileRepository/file_download.php,MANAGE,redcap_docs,NULL,NULL,NULL,NULL,Download exported data file (CSV raw),0,NULL
+26,5,2.01205E+13,bigman,xxx.xxx.xxx.xxx,FileRepository/file_download.php,MANAGE,redcap_docs,NULL,NULL,NULL,NULL,Download exported data file (CSV raw),0,NULL
+31,5,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/edit_field.php,MANAGE,redcap_metadata,NULL,NULL,NULL,NULL,Create project field,0,NULL
+32,6,2.01205E+13,trex,xxx.xxx.xxx.xxx,ProjectGeneral/create_project.php,MANAGE,redcap_projects,NULL,6,NULL,project_id = 6,Create project,0,NULL
+33,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/data_dictionary_upload.php,MANAGE,redcap_metadata,NULL,6,NULL,project_id = 6,Upload data dictionary,0,NULL
+34,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,DataEntry/index.php,INSERT,redcap_data,"INSERT INTO redcap_data VALUES (6, 21, '1', 'last_name', 'aaaa');
+INSERT INTO redcap_data VALUES (6, 21, '1', 'participant_demographics_complete', '0');
+INSERT INTO redcap_data VALUES (6, 21, '1', 'first_name', '1')",,21,"last_name = 'aaaa',
+participant_demographics_complete = '0',
+first_name = '1'",Create record,0,NULL
+35,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,DataEntry/index.php,UPDATE,redcap_data,"INSERT INTO redcap_data VALUES (6, 21, '1', 'prenayn', '2');
+INSERT INTO redcap_data VALUES (6, 21, '1', 'numchild', '1');
+INSERT INTO redcap_data VALUES (6, 21, '1', 'dob1', '2011-05-15');
+INSERT INTO redcap_data VALUES (6, 21, '1', 'age1', '12');
+INSERT INTO redcap_data VALUES (6, 21, '1', 'baseline_survey_complete', '0')",,21,"prenayn = '2',
+numchild = '1',
+dob1 = '2011-05-15',
+age1 = '12',
+baseline_survey_complete = '0'",Update record,0,NULL
+36,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/edit_field.php,MANAGE,redcap_metadata,"update redcap_metadata set field_name = 'asq32fm3', element_label = 'When you put a toy in his hand, does your baby hold it in his hand briefly?\\r\\n\\r\\n&lt;html&gt;\\r\\n&lt;img src=&quot;https://lalala/asq32fm3.bmp&quot; alt=&quot;baby pic&quot;\\r\\n/&gt;\\r\\n&lt;/html&gt;', field_req = '0', field_phi = NULL, element_note = NULL, element_type = 'radio', element_validation_type = NULL, element_validation_checktype = NULL, element_enum = '1, Yes, regularly \\\\n 2, Yes, sometimes \\\\n 3, Not yet', element_validation_min = NULL, element_validation_max = NULL, edoc_id = NULL, edoc_display_img = 0, custom_alignment = NULL, question_num = NULL, grid_name = NULL where project_id = 6 and field_name = 'asq32fm3'",asq32fm3,NULL,field_name = 'asq32fm3',Edit project field,0,NULL
+37,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/data_dictionary_upload.php,MANAGE,redcap_metadata,NULL,6,NULL,project_id = 6,Upload data dictionary,0,NULL
+38,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/data_dictionary_upload.php,MANAGE,redcap_metadata,NULL,6,NULL,project_id = 6,Upload data dictionary,0,NULL
+39,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,ProjectGeneral/edit_project_settings.php,MANAGE,redcap_projects,"update redcap_projects set 
+			scheduling = 1, 
+			repeatforms = 1, 
+			purpose = 2, 
+			purpose_other = '4', 
+			project_pi_firstname = 'David',  
+			project_pi_mi = '',  
+			project_pi_lastname = 'Bard',
+			project_pi_email = 'david-bard@ouhsc.edu',   
+			project_pi_alias = '', 
+			project_pi_username = '', 
+			project_irb_number = '16314',  
+			project_grant_number = '', 
+			app_title = 'MIECHV Test',
+			surveys_enabled = 0,
+			randomization = 0
+			where project_id = 6",6,NULL,project_id = 6,Modify project settings,0,NULL
+40,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,ProjectGeneral/edit_project_settings.php,MANAGE,redcap_projects,"update redcap_projects set 
+			scheduling = 1, 
+			repeatforms = 1, 
+			purpose = 2, 
+			purpose_other = '4', 
+			project_pi_firstname = 'David',  
+			project_pi_mi = '',  
+			project_pi_lastname = 'Bard',
+			project_pi_email = 'david-bard@ouhsc.edu',   
+			project_pi_alias = '', 
+			project_pi_username = '', 
+			project_irb_number = '16314',  
+			project_grant_number = '', 
+			app_title = 'Giving Parents a Voice: Your Family&#039;s Health Matters',
+			surveys_enabled = 0,
+			randomization = 0
+			where project_id = 6",6,NULL,project_id = 6,Modify project settings,0,NULL
+41,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/define_events_ajax.php,MANAGE,redcap_events_metadata,"update redcap_events_metadata set day_offset = 0, descrip = 'Initial Interview',  
+						offset_min = 0, offset_max = 0 where event_id = '21'",21,NULL,"Event: Initial Interview, Days Offset: 0, Offset Range: -0/+0",Edit event,0,NULL
+42,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/define_events_ajax.php,MANAGE,redcap_events_metadata,"insert into redcap_events_metadata (arm_id, day_offset, descrip, offset_min, offset_max) 
+						select arm_id, '30', 'Month 1 Contact', '0', '0' 
+						from redcap_events_arms where project_id = 6 and arm_num = 1",22,NULL,"Event: Month 1 Contact, Days Offset: 30, Offset Range: -0/+0",Create event,0,NULL
+43,6,2.01205E+13,bigman,xxx.xxx.xxx.xxx,Design/define_events_ajax.php,MANAGE,redcap_events_metadata,"insert into redcap_events_metadata (arm_id, day_offset, descrip, offset_min, offset_max) 
+						select arm_id, '60', 'Month 2 Contact', '0', '0' 
+						from redcap_events_arms where project_id = 6 and arm_num = 1",23,NULL,"Event: Month 2 Contact, Days Offset: 60, Offset Range: -0/+0",Create event,0,NULL
