@@ -1,28 +1,14 @@
-dsRaw
-                                         project_name                                            app_title project_id                user       event Count    DateMin    DateMax
-1                          REDCap Instance Management                           REDCap Instance Management          0            aaaaaaaa      MANAGE     2 2013-09-12 2013-09-12
-2                          REDCap Instance Management                           REDCap Instance Management          0               bbbbb      MANAGE     2 2013-09-12 2013-09-12
-3                          REDCap Instance Management                           REDCap Instance Management          0            cccccccc      MANAGE     2 2013-09-12 2013-09-12
-4                          REDCap Instance Management                           REDCap Instance Management          0              dddddd      MANAGE     2 2013-09-12 2013-09-12
-5                          REDCap Instance Management                           REDCap Instance Management          0            eeeeeeee      MANAGE     4 2013-09-12 2013-09-12
-6                          REDCap Instance Management                           REDCap Instance Management          0			fffffffff      MANAGE     4 2013-09-12 2013-09-12
-7                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      UPDATE   910 2013-09-12 2013-09-12
-8                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      INSERT    17 2013-09-12 2013-09-12
-9                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      MANAGE    42 2013-09-12 2013-09-12
-10                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               hhhhh      UPDATE     1 2013-09-12 2013-09-12
-11                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               hhhhh DATA_EXPORT     3 2013-09-12 2013-09-12
-12                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      UPDATE  1543 2013-09-12 2013-09-12
-13                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      INSERT   129 2013-09-12 2013-09-12
-14                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      MANAGE   215 2013-09-12 2013-09-12
-15                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      UPDATE  1637 2013-09-12 2013-09-12
-16                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      INSERT    99 2013-09-12 2013-09-12
-17                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      MANAGE   143 2013-09-12 2013-09-12
-18                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      UPDATE   266 2013-09-12 2013-09-12
-19                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      INSERT    54 2013-09-12 2013-09-12
-20                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      MANAGE    66 2013-09-12 2013-09-12
-21                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      UPDATE  1416 2013-09-12 2013-09-12
-22                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      INSERT    21 2013-09-12 2013-09-12
-23                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      MANAGE    61 2013-09-12 2013-09-12
-24                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            llllllll      UPDATE    26 2013-09-12 2013-09-12
-25                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            llllllll      MANAGE     1 2013-09-12 2013-09-12
-26                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             eeeeeee DATA_EXPORT    19 2013-09-12 2013-09-12
+dsRaw 
+                             app_title project_id       user       event Count    DateMin    DateMax
+1           REDCap Instance Management          0   aaaaaaaa      MANAGE     2 2013-08-02 2013-08-09
+2           REDCap Instance Management          0      bbbbb      MANAGE     2 2013-09-05 2013-09-10
+3           REDCap Instance Management          0   cccccccc      MANAGE     2 2013-09-22 2013-09-25
+4      Amazing Kidney Research Project          7   gggggggg      UPDATE   910 2013-08-01 2013-09-30
+5      Amazing Kidney Research Project          7   gggggggg      INSERT    17 2013-09-02 2013-09-12
+6            Earth Shattering Oncology         15      hhhhh DATA_EXPORT     3 2013-09-17 2013-09-17
+7            Earth Shattering Oncology         15   iiiiiiii      UPDATE  1543 2013-08-01 2013-09-30
+8            Earth Shattering Oncology         15   iiiiiiii      INSERT   129 2013-08-12 2013-09-19
+9            Earth Shattering Oncology         15     kkkkkk      MANAGE    61 2013-08-07 2013-09-16
+10     Giving Kids a Voice Version 3.5         21   llllllll      UPDATE    26 2013-08-17 2013-09-01
+11     Giving Kids a Voice Version 3.5         21   llllllll      MANAGE     1 2013-09-14 2013-09-14
+12     Giving Kids a Voice Version 3.5         21    eeeeeee DATA_EXPORT    19 2013-09-01 2013-09-23
