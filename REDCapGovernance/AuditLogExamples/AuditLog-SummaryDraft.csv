@@ -1,28 +1,28 @@
 dsRaw
-                                         project_name                                            app_title project_id                user       event Count      DateMin      DateMax
-1                                                <NA>                                                 <NA>          0            aaaaaaaa      MANAGE     2 2.013082e+13 2.013082e+13
-2                                                <NA>                                                 <NA>          0               bbbbb      MANAGE     2 2.013080e+13 2.013080e+13
-3                                                <NA>                                                 <NA>          0            cccccccc      MANAGE     2 2.013083e+13 2.013083e+13
-4                                                <NA>                                                 <NA>          0              dddddd      MANAGE     2 2.013082e+13 2.013082e+13
-5                                                <NA>                                                 <NA>          0            eeeeeeee      MANAGE     4 2.013083e+13 2.013083e+13
-6                                                <NA>                                                 <NA>          0           fffffffff      MANAGE     4 2.013082e+13 2.013083e+13
-7                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      UPDATE   910 2.013081e+13 2.013083e+13
-8                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      INSERT    17 2.013081e+13 2.013083e+13
-9                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      MANAGE    42 2.013081e+13 2.013083e+13
-10                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               hhhhh      UPDATE     1 2.013082e+13 2.013082e+13
-11                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               hhhhh DATA_EXPORT     3 2.013083e+13 2.013083e+13
-12                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      UPDATE  1543 2.013080e+13 2.013083e+13
-13                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      INSERT   129 2.013080e+13 2.013083e+13
-14                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      MANAGE   215 2.013080e+13 2.013083e+13
-15                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      UPDATE  1637 2.013080e+13 2.013083e+13
-16                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      INSERT    99 2.013080e+13 2.013083e+13
-17                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      MANAGE   143 2.013080e+13 2.013083e+13
-18                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      UPDATE   266 2.013080e+13 2.013083e+13
-19                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      INSERT    54 2.013080e+13 2.013083e+13
-20                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      MANAGE    66 2.013080e+13 2.013083e+13
-21                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      UPDATE  1416 2.013080e+13 2.013083e+13
-22                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      INSERT    21 2.013080e+13 2.013083e+13
-23                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      MANAGE    61 2.013080e+13 2.013083e+13
-24                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            llllllll      UPDATE    26 2.013082e+13 2.013083e+13
-25                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            llllllll      MANAGE     1 2.013081e+13 2.013081e+13
-26                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             eeeeeee DATA_EXPORT    19 2.013081e+13 2.013083e+13
+                                         project_name                                            app_title project_id                user       event Count    DateMin    DateMax
+1                          REDCap Instance Management                           REDCap Instance Management          0            aaaaaaaa      MANAGE     2 2013-09-12 2013-09-12
+2                          REDCap Instance Management                           REDCap Instance Management          0               bbbbb      MANAGE     2 2013-09-12 2013-09-12
+3                          REDCap Instance Management                           REDCap Instance Management          0            cccccccc      MANAGE     2 2013-09-12 2013-09-12
+4                          REDCap Instance Management                           REDCap Instance Management          0              dddddd      MANAGE     2 2013-09-12 2013-09-12
+5                          REDCap Instance Management                           REDCap Instance Management          0            eeeeeeee      MANAGE     4 2013-09-12 2013-09-12
+6                          REDCap Instance Management                           REDCap Instance Management          0			fffffffff      MANAGE     4 2013-09-12 2013-09-12
+7                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      UPDATE   910 2013-09-12 2013-09-12
+8                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      INSERT    17 2013-09-12 2013-09-12
+9                   giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            gggggggg      MANAGE    42 2013-09-12 2013-09-12
+10                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               hhhhh      UPDATE     1 2013-09-12 2013-09-12
+11                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               hhhhh DATA_EXPORT     3 2013-09-12 2013-09-12
+12                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      UPDATE  1543 2013-09-12 2013-09-12
+13                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      INSERT   129 2013-09-12 2013-09-12
+14                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            iiiiiiii      MANAGE   215 2013-09-12 2013-09-12
+15                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      UPDATE  1637 2013-09-12 2013-09-12
+16                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      INSERT    99 2013-09-12 2013-09-12
+17                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             jjjjjjj      MANAGE   143 2013-09-12 2013-09-12
+18                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      UPDATE   266 2013-09-12 2013-09-12
+19                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      INSERT    54 2013-09-12 2013-09-12
+20                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35               bbbbb      MANAGE    66 2013-09-12 2013-09-12
+21                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      UPDATE  1416 2013-09-12 2013-09-12
+22                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      INSERT    21 2013-09-12 2013-09-12
+23                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35              kkkkkk      MANAGE    61 2013-09-12 2013-09-12
+24                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            llllllll      UPDATE    26 2013-09-12 2013-09-12
+25                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35            llllllll      MANAGE     1 2013-09-12 2013-09-12
+26                  giving_parents_a_voice_version_20                   Giving Parents a Voice Version 2.0         35             eeeeeee DATA_EXPORT    19 2013-09-12 2013-09-12
