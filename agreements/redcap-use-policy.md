@@ -1,14 +1,17 @@
 <h1>ADMINISTRATIVE POLICY AND PROCEDURE</h1>
-SUBJECT:      APPROPRIATE USE OF REDCap and REDCap Survey
-DOCUMENT MANAGER: BIOMEDICAL and BEHAVIORAL METHODOLOGY CORE OUHSC
-EFFECTIVE DATE:   4/8/2015
-REVISED DATE:   3/14/2014 by BBMC
-SUPERSEDES:   N/A
+<table>
+  <tr><td>SUBJECT:</td><td>APPROPRIATE USE OF REDCap and REDCap Survey</td></tr>
+  <tr><td>DOCUMENT MANAGER:</td><td>BIOMEDICAL and BEHAVIORAL METHODOLOGY CORE OUHSC</td></tr>
+  <tr><td>EFFECTIVE DATE:</td><td>4/8/2015</td></tr>
+  <tr><td>REVISED DATE:</td><td>3/14/2014 by BBMC</td></tr>
+  <tr><td>SUPERSEDES:</td><td>N/A</td></tr>
+</table>
 
 <hr/>
 <h1>Scope:</h1>
 All researchers wishing to use REDCap for managing clinical research data or REDCap Survey for collecting study participants' responses on-line.
 
+<hr/>
 <h1>Purpose:</h1>
 To protect patient/participant privacy and confidentiality while assisting researchers in conducting biomedical and behavioral research.
 
@@ -76,7 +79,7 @@ PI, PO, Research assistants, nurses, data entry persons and other personnel gran
 <h1>Policy:</h1>
 Any Authenticated User has a right to access REDCap, review public databases (e.g., demo databases), and create a new database or modify a database for which corresponding authorization has been granted (e.g., his/her own).  Currently, the University of Oklahoma Health Sciences Center Directory serves as the Authentication source.   There are three REDCap installations available:  <a href="https://rcapdev.ouhsc.edu">Development Instance</a>, <a href="https://bbmc.ouhsc.edu"> BBMC customized version for internal development and production</a>, and <a href="https://redcapweb1/redcap"> an enterprise version for general development and production</a>..
 
-Any new user is strongly encouraged to make an appointment with the BBMC or BERD Core for an introduction to REDCap (about 1 hour) before attempting to create a new database in REDCap.  A REDCap project request form is available online (https://bbmc.ouhsc.edu/redcap/redcap_v4.11.2/Miechv/Informatics3.html).  Project requests should be accompanied with an uploaded study design proposal (protocol or grant submission) at least 1 full working day before the appointment.
+Any new user is strongly encouraged to make an appointment with the BBMC or BERD Core for an introduction to REDCap (about 1 hour) before attempting to create a new database in REDCap.  A REDCap project request form is available <a href="https://bbmc.ouhsc.edu/redcap/redcap_v4.11.2/Miechv/Informatics3.html">online</a>.  Project requests should be accompanied with an uploaded study design proposal (protocol or grant submission) at least 1 full working day before the appointment.
 
 Any new Database will be created in Development Mode. When a Database is in Development Mode, the user cannot enter any identified patient information. For testing purposes, fictional identifiers must be used.  BBMC will periodically review contents of all databases in Development Mode to ensure compliance and report violations to the Privacy Officer of the institution whose data is being used.  In the case of data regarding patients or participants of OUHSC and its affiliates, all users must comply with <a href="http://www.ouhsc.edu/hipaa/">Health Insurance Portability and Accountability Act (HIPAA) Privacy</a> and <a href="http://it.ouhsc.edu/policies/" >Security Policies</a>, and Procedures for "Protected Health Information" (PHI), Family Educational Rights and Privacy Act <a href="http://admissions.ouhsc.edu//FERPA.aspx">Family Educational Rights and Privacy Act (FERPA)</a>, Policies and Procedures for protection of educational records, and all other human subjects information privacy and security protections.
 
