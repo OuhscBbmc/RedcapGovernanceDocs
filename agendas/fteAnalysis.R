@@ -40,23 +40,27 @@ ggplot(fteData, aes(x=no_cur_prod_proj, y=no_fte)) +
   theme_light()
   
 
-ggplot(fteData, aes(x=no_cur_prod_proj, y=no_fte)) + 
+g <- ggplot(fteData, aes(x=no_cur_prod_proj, y=no_fte)) + 
   geom_smooth(method = "loess") + 
   geom_point(aes(color=factor(OUdat), fill=factor(OUdat)),show.legend = FALSE, shape=21, size=7) + 
   geom_hline(yintercept=.35, color="tomato"          , alpha=.7) +
-  geom_hline(yintercept=.95, color="blue"          , alpha=.7) +
-  geom_vline(xintercept=153, color="tomato"          , alpha=.7) +
   geom_text(data=ouData, mapping=aes(label=Instance), color="tomato",hjust=c(.5, 1.1, -.1), size=5, vjust=2, check_overlap=F, show.legend = FALSE) + 
   scale_x_continuous(labels=scales::comma) + 
   scale_color_manual(values=c("gray20","tomato")) + 
-  scale_fill_manual(values=c("#22222222","#EE4422BB")) + 
-  coord_cartesian(xlim=c(-150, 1300)) +
+  scale_fill_manual(values=c("#22222222","#EE4422BB")) +
   theme_light() +
   labs(x="Count of Projects in Production", y="Insititution-supported FTE (sum)")
 
+g + geom_vline(xintercept=153, color="tomato", alpha=.7) +
+  geom_hline(yintercept=.95, color="blue", alpha=.7) +
+  coord_cartesian(xlim=c(-150, 1300))
+
 ggsave("project-count.png", width=7, height=5, units="in")
 
-last_plot() %+% 
-  aes(x=no_cur_users) +
+g + aes(x=no_cur_users) +
+  geom_hline(yintercept=.87, color="blue", alpha=.7) +
+  geom_vline(xintercept=411, color="tomato", alpha=.7) + 
+  coord_cartesian(xlim=c(-250, 2800)) + 
   labs(x="Count of Users")
+
 ggsave("user-count.png", width=7, height=5, units="in")
